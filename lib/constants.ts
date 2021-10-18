@@ -47,6 +47,14 @@ export const NAVIGATION = [
   {
     name: 'Instructors',
     route: '/speakers'
+  },
+  {
+    name: 'Expo',
+    route: '/expo'
+  },
+  {
+    name: 'Jobs',
+    route: '/jobs'
   }
 ];
 // export const NAVIGATION = [
@@ -71,7 +79,7 @@ export const NAVIGATION = [
 //     route: '/schedule'
 //   },
 //   {
-//     name: 'Instructors',
+//     name: 'Speakers',
 //     route: '/speakers'
 //   },
 //   {
