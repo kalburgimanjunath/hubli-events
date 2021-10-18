@@ -44,34 +44,34 @@ export const NAVIGATION = [
     name: 'Stage A',
     route: '/stage/a'
   },
-//   {
-//     name: 'Stage C',
-//     route: '/stage/c'
-//   },
-//   {
-//     name: 'Stage M',
-//     route: '/stage/m'
-//   },
-//   {
-//     name: 'Stage E',
-//     route: '/stage/e'
-//   },
-//   {
-//     name: 'Schedule',
-//     route: '/schedule'
-//   },
-//   {
-//     name: 'Speakers',
-//     route: '/speakers'
-//   },
-//   {
-//     name: 'Expo',
-//     route: '/expo'
-//   },
-//   {
-//     name: 'Jobs',
-//     route: '/jobs'
-//   }
+  {
+    name: 'Stage C',
+    route: '/stage/c'
+  },
+  {
+    name: 'Stage M',
+    route: '/stage/m'
+  },
+  {
+    name: 'Stage E',
+    route: '/stage/e'
+  },
+  {
+    name: 'Schedule',
+    route: '/schedule'
+  },
+  {
+    name: 'Speakers',
+    route: '/speakers'
+  },
+  {
+    name: 'Expo',
+    route: '/expo'
+  },
+  {
+    name: 'Jobs',
+    route: '/jobs'
+  }
 ];
 
 export type TicketGenerationState = 'default' | 'loading';
