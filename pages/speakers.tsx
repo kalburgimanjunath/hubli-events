@@ -31,7 +31,7 @@ type Props = {
 
 export default function Speakers({ speakers }: Props) {
   const meta = {
-    title: 'Speakers - Hubli Zumba Club ',
+    title: 'Hubli Zumba Club',
     description: META_DESCRIPTION
   };
   return (
